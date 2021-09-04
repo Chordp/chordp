@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Stats](https://github-readme-stats.vercel.app/api?username=chordp&chordp=true&theme=dracula&locale=cn&hide_border=true)  
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=chordp&locale=cn&layout=compact&show_icons=true&theme=dracula&hide_border=true)  
+![Stats](https://github-readme-stats.vercel.app/api?username=chordp&chordp=true&theme=dracula&locale=cn)  
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=chordp&locale=cn&layout=compact&show_icons=true&theme=dracula)  
 <!--
 **Chordp/chordp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
